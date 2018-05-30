@@ -1,0 +1,18 @@
+h1{
+	color:green;
+}
+
+#myCanvas{
+	border: solid 0.5px;
+position: absolute;
+margin: auto;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+}
+
+body{
+	width:700px;
+	height:700px;
+}
